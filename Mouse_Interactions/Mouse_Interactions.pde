@@ -47,7 +47,7 @@ void draw() {
     println("MAX!");
     eSize = 0;
   }
-  String s = "KEVIN IS EEN BOT";
+  String s = "Xaverius avenue!";
 fill(0);
 textSize(50);
 textAlign(CENTER);
